@@ -1,2 +1,2 @@
 # demo
-demo to learn  github
+demo to lear
